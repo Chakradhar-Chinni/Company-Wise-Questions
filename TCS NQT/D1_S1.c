@@ -24,7 +24,7 @@ int main()
 	{
 		for(j=0;j<3;j++)
 		{
-			trainee_score = trainee_score+arr[j][i];
+		   trainee_score = trainee_score+arr[j][i];
 		}
 		avg[i] = trainee_score/3;
 		trainee_score = 0; 
