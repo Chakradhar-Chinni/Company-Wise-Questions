@@ -6,7 +6,7 @@ int main()
 	scanf("%d",&n);
 	if(n>=1 && n<=2000)
 	{
-		printf("Time Estimated : 25 minutes");
+ 	   printf("Time Estimated : 25 minutes");
 	}
 	else if(n>=2000 && n<=4000)
 	{
