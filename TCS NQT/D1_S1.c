@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	int i,j;
+	int i,j,max
 	int arr[3][3];
 	int avg[3],trainee_score=0;
 	
