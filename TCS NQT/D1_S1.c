@@ -12,8 +12,8 @@ int main()
 		{
 			scanf("%d",&arr[i][j]);
 			if(arr[i][j]<1 || arr[i][j]>100)
-        	{
-           		arr[i][j] = 0;
+        		{
+           			arr[i][j] = 0;
       		}
 		}
 	}
