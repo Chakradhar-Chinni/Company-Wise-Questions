@@ -17,7 +17,6 @@ int main()
       		}
 		}
 	}
-	
 	//calculating oxygen level and finding average of every trainee in total rounds
 	for(i=0;i<3;i++)
 	{
