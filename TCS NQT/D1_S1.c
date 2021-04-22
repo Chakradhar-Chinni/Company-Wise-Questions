@@ -14,7 +14,7 @@ int main()
 			if(arr[i][j]<1 || arr[i][j]>100)
         		{
            			arr[i][j] = 0;
-      		}
+      			}
 		}
 	}
 	//calculating oxygen level and finding average of every trainee in total rounds
