@@ -4,6 +4,7 @@ int main()
 	int i,j,max;
 	int arr[3][3];
 	int avg[3],trainee_score=0;
+	
 	//Scanning scores of every round
 	for(i=0;i<3;i++)  //every round
 	{
