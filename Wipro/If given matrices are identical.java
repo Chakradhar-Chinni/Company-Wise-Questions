@@ -1,7 +1,7 @@
 // check if given 2 matrices are identical
 public class Main
 {	
-	static void matrix_checker(int[][] mat1,int[][] mat2,int flag)
+ static void matrix_checker(int[][] mat1,int[][] mat2,int flag)
   {
       int i,j;
       outerloop:
